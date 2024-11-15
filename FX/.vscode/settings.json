@@ -1,0 +1,13 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "HelloFx/HelloWorld/lib/javafx.base.jar",
+        "HelloFx/HelloWorld/lib/javafx.controls.jar",
+        "HelloFx/HelloWorld/lib/javafx.fxml.jar",
+        "HelloFx/HelloWorld/lib/javafx.graphics.jar",
+        "HelloFx/HelloWorld/lib/javafx.media.jar",
+        "HelloFx/HelloWorld/lib/javafx.swing.jar",
+        "HelloFx/HelloWorld/lib/javafx.web.jar",
+        "HelloFx/HelloWorld/lib/javafx-swt.jar"
+    ]
+}
